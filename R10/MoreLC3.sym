@@ -1,0 +1,13 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	mirror            3007
+//	Eight             3005
+//	Result            3003
+//	Label             3019
+//	Mask              3006
+//	Loop              3011
+//	Loop2             3016
+//	One               3004
+//	Param             3002

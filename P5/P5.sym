@@ -1,0 +1,27 @@
+// Symbol table
+// Scope level 0:
+//	Symbol Name       Page Address
+//	----------------  ------------
+//	IntAdd            3012
+//	Option            300E
+//	Result            3011
+//	BinaryOr          3027
+//	RightArithShift   3044
+//	Main              3008
+//	IntSub            3017
+//	Ext1              304B
+//	Ext2              3058
+//	SZ                3060
+//	Skip              3025
+//	isZero            3051
+//	LeftShift         303D
+//	EndProg           300D
+//	Loop0             3022
+//	Loop1             303F
+//	Loop2             304E
+//	Loop3             305D
+//	IntMul            301E
+//	Functions         3001
+//	Param1            300F
+//	Param2            3010
+//	BinaryXOr         3030

@@ -1,0 +1,8 @@
+OK
+OK
+OK
+name:Loop1                addr:3006  
+name:printMove            addr:4000  
+name:Loop2                addr:3018  
+
+symbol count: 3
